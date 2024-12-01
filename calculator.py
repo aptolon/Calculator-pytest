@@ -1,5 +1,4 @@
 import math
-"""subtract multiply divide percentage power log factorial"""
 def add(x, y):
     if type(x) != (int or float) or type(y) != (int or float):
         raise TypeError("x и y должны быть числами")

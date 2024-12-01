@@ -1,5 +1,5 @@
 import pytest
-from calculator import add, subtract, multiply, divide, power, log, factorial, percentage
+from calculator import *
 
 
 def test_add():
